@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome! 👋
+
+- 🔭 I’m currently working on DSME Degree at Ferris University
+- 🌱 I’m currently learning Full Stack Web Development, Spring Boot Frameworks, Software Design, and Enterprise Software Applications
+- 👯 I'm currently open to any type of collaboration!
+- 🤔 I'm currently interested in learning more about Embedded Systems, Machine Learning, and Cloud Computing 
+- 📫 Reach me through my Linkedin, Github, or by email! 
 
 <!--
 **catpho/catpho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
