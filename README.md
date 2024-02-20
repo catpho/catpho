@@ -1,3 +1,7 @@
+
+<div id = "header" align= "center">
+  <img src = "https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
+</div>
 ### Welcome! 👋
 
 - 🔭 I’m currently working on DSME Degree at Ferris University
