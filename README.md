@@ -9,8 +9,8 @@
 
 :woman_technologist: About Me :
 
-- 🔭 I’m currently working on a DSME Degree at Ferris University
-- 🌱 I’m currently learning Full Stack Web Development, Spring Boot Frameworks, Software Design, and Enterprise Software Applications
+- 🔭 I graduated from Ferris University with my DSME degree cum laude.
+- 🌱 I am versed in Full Stack Web Development, Spring Boot Frameworks, Software Design, and Enterprise Software Applications
 - 👯 I'm currently open to any type of collaboration!
 - 🤔 I'm currently interested in learning more about Embedded Systems, Machine Learning, and Cloud Computing 
 - 📫 Reach me through my Linkedin, Github, or by email! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-phan-62467b29b/)
